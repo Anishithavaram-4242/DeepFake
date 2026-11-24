@@ -1,0 +1,56 @@
+{
+  "frame_level": {
+    "accuracy": 67.12,
+    "precision": 62.99,
+    "recall": 83.02,
+    "f1_score": 71.63,
+    "auc_roc": 75.22,
+    "confusion_matrix": [
+      [
+        2579,
+        2457
+      ],
+      [
+        855,
+        4181
+      ]
+    ]
+  },
+  "video_mean_voting": {
+    "accuracy": 77.25,
+    "precision": 86.79,
+    "recall": 84.14,
+    "f1_score": 85.45,
+    "auc_roc": 80.68,
+    "confusion_matrix": [
+      [
+        449,
+        437
+      ],
+      [
+        541,
+        2871
+      ]
+    ]
+  },
+  "video_median_voting": {
+    "accuracy": 77.41,
+    "precision": 86.95,
+    "recall": 84.17,
+    "f1_score": 85.54,
+    "auc_roc": 77.28,
+    "confusion_matrix": [
+      [
+        455,
+        431
+      ],
+      [
+        540,
+        2872
+      ]
+    ]
+  },
+  "video_majority_acc": 77.76,
+  "total_frames": 10072,
+  "total_videos": 4298
+}

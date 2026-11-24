@@ -1,0 +1,18 @@
+{
+  "accuracy": 52.67,
+  "precision": 49.49,
+  "recall": 30.52,
+  "f1_score": 37.76,
+  "auc_roc": 52.65,
+  "confusion_matrix": [
+    [
+      782,
+      299
+    ],
+    [
+      667,
+      293
+    ]
+  ],
+  "total_evaluated_images": 2041
+}
